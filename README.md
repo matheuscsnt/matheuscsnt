@@ -2,10 +2,9 @@
 
 ##
 
-- 🔭 Aprendendo e aprofundando sobre dados.
-- 🌱 Estudando dados, power BI, excel e afins.
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: esse espaço vai servir para postar meus estudos enquanto tento entender o git/github e o meu projeto de cv, isso não é um fun fact, mas finge.
+-  Aprendendo e aprofundando sobre dados.
+-  Grauduando em Data Science.. estudando dados, power BI, python e SQL.
+
 
 <div align="center">
   <a href="https://beacons.ai/matheuscsnt">
