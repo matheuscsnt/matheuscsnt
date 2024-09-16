@@ -3,7 +3,7 @@
 ##
 
 -  Aprendendo e aprofundando sobre dados.
--  Grauduando em Data Science.. estudando dados, power BI, python e SQL.
+-  Grauduando em Data Science.. estudando python, desenvolvimento e business intelligence.
 
 
 <div align="center">
