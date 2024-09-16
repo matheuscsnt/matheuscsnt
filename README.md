@@ -2,7 +2,6 @@
 
 ##
 
--  Aprendendo e aprofundando sobre dados.
 -  Grauduando em Data Science.. estudando python, desenvolvimento e business intelligence.
 
 
