@@ -2,13 +2,7 @@
 
 ##
 
--  Grauduando em Data Science.. estudando python, desenvolvimento e business intelligence.
-
-
-<div align="center">
-  <a href="https://beacons.ai/matheuscsnt">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsnt&layout=compact&langs_count=7&theme=dark"/>
-</div>
+-  Grauduado em Data Science, estudante de estatística na Universidade Federal da Bahia. Estudando python, tecnologias para análise de dados e business intelligence. Entre em contato comigo pelo LinkedIn.
   
 ##
   
